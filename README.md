@@ -1,6 +1,6 @@
-# Chatbot Application Notebook
+# Chatbot Application Notebook using Llama-3.1-Tulu-3-405B
 
-This repository contains a Jupyter Notebook that implements a chatbot using the Hugging Face Transformers library and Flask. The notebook demonstrates how to set up a web application that allows users to interact with a pre-trained language model.
+This repository contains a Jupyter Notebook that implements a chatbot using the Hugging Face Transformers library, Llama-3.1-Tulu-3-405B and Flask. The notebook demonstrates how to set up a web application that allows users to interact with a pre-trained language model.
 
 ## Overview
 
